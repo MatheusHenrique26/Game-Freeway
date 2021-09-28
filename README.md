@@ -1,5 +1,5 @@
 # Game-Freeway
-Game criado com o p5.js
+Game criado utilizando o p5.js
 <br>
 <br>
 <br>
